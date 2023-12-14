@@ -70,7 +70,7 @@ hr {
 
 @media screen and (max-width: 768px) {
   body {
-    background-size: auto;
+    background-image: url(./assets/images/background-pattern-mobile.svg);
   }
 
   .container {
