@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap");
+
+* {
+  font-family: "Work Sans", sans-serif;
+}
+
+body {
+  background-image: url(./assets/images/background-pattern-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: 100;
+  background-color: hsl(275, 100%, 97%);
+  height: 100vh;
+}
+
+h1 {
+  font-weight: 700;
+  color: hsl(292, 42%, 14%);
+  font-size: 50px;
+}
+
+h3 {
+  font-weight: 600;
+  color: hsl(292, 42%, 14%);
+}
+
+h3:hover {
+  cursor: pointer;
+  color: hsl(292, 16%, 49%);
+}
+
+p {
+  font-size: 16px;
+  font-weight: 400;
+  display: none;
+}
+
+hr {
+  width: 95%;
+  color: rgba(0, 0, 0, 0.099);
+}
+
+.container {
+  background-color: white;
+  margin: auto;
+  width: 33%;
+  position: relative;
+  top: 30%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+}
+
+.faqs {
+  display: flex;
+}
+.faqs h1 {
+  margin-left: 20px;
+}
+
+.acc-head {
+  display: flex;
+  justify-content: space-between;
+}
+
+.acc-head img {
+  margin-right: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    background-size: auto;
+  }
+
+  .container {
+    width: 80%;
+    top: 25%;
+  }
+
+  h1 {
+    font-size: 30px;
+  }
+
+  h3 {
+    margin-right: 20px;
+  }
+}
