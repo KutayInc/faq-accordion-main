@@ -11,12 +11,8 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -36,29 +32,23 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://faq-accordion-main-kutays-projects.vercel.app/
+- Live Site URL: https://faq-accordion-main-kutays-projects.vercel.app/
 
 ## My process
 
-I use simple js and css
+I use HTML, CSS and JS
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - JS
 - Flexbox
 
 ### What I learned
 
-It was a good css practice for me
+It was a good css practice
 
-### Continued development
-
-I want to be better at responsive design
-
-### Useful resources
 
 ## Author
 
